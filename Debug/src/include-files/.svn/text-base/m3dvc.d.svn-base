@@ -1,0 +1,8 @@
+src/include-files/m3dvc.d src/include-files/m3dvc.o: \
+ /root/workspace/include-files/m3dvc.cpp \
+ /root/workspace/include-files/m3dvc.h \
+ /root/workspace/include-files/utility.h
+
+/root/workspace/include-files/m3dvc.h:
+
+/root/workspace/include-files/utility.h:

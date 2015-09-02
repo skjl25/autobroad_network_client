@@ -1,0 +1,5 @@
+src/include-files/viewer.d src/include-files/viewer.o: \
+ /root/workspace/include-files/viewer.cc \
+ /root/workspace/include-files/viewer.h
+
+/root/workspace/include-files/viewer.h:

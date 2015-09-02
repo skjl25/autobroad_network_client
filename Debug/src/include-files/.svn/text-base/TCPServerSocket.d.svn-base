@@ -1,0 +1,5 @@
+src/include-files/TCPServerSocket.d src/include-files/TCPServerSocket.o: \
+ /root/workspace/include-files/TCPServerSocket.cpp \
+ /root/workspace/include-files/TCPServerSocket.h
+
+/root/workspace/include-files/TCPServerSocket.h:

@@ -1,0 +1,81 @@
+src/autobroad_client.d src/autobroad_client.o: \
+ ../src/autobroad_client.cpp /usr/include/opencv/cv.h \
+ /usr/include/opencv/cxcore.h /usr/include/opencv/cxtypes.h \
+ /usr/include/opencv/cxerror.h /usr/include/opencv/cvver.h \
+ /usr/include/opencv/cxcore.hpp /usr/include/opencv/cxmisc.h \
+ /usr/include/opencv/cxoperations.hpp /usr/include/opencv/cxmat.hpp \
+ /usr/include/opencv/cxflann.h /usr/include/opencv/cvtypes.h \
+ /usr/include/opencv/cv.hpp /usr/include/opencv/cvcompat.h \
+ /usr/include/opencv/highgui.h /usr/include/opencv/highgui.hpp \
+ /home/sklee25/temp/libfreenect/include/libfreenect.h \
+ /usr/local/include/libfreenect/libfreenect_sync.h \
+ /root/workspace/include-files/cvideo.h \
+ /root/workspace/include-files/utility.h \
+ /root/workspace/include-files/load_image.h \
+ /root/workspace/include-files/utility.h \
+ /root/workspace/include-files/viewer.h \
+ /root/workspace/include-files/TCPServerSocket.h \
+ /root/workspace/include-files/TCPClientSocket.h \
+ /root/workspace/include-files/image_processing.h \
+ /root/workspace/include-files/camera.h \
+ /root/workspace/include-files/cvideo.h \
+ /root/workspace/include-files/load_image.h \
+ /root/workspace/include-files/viewer.h
+
+/usr/include/opencv/cv.h:
+
+/usr/include/opencv/cxcore.h:
+
+/usr/include/opencv/cxtypes.h:
+
+/usr/include/opencv/cxerror.h:
+
+/usr/include/opencv/cvver.h:
+
+/usr/include/opencv/cxcore.hpp:
+
+/usr/include/opencv/cxmisc.h:
+
+/usr/include/opencv/cxoperations.hpp:
+
+/usr/include/opencv/cxmat.hpp:
+
+/usr/include/opencv/cxflann.h:
+
+/usr/include/opencv/cvtypes.h:
+
+/usr/include/opencv/cv.hpp:
+
+/usr/include/opencv/cvcompat.h:
+
+/usr/include/opencv/highgui.h:
+
+/usr/include/opencv/highgui.hpp:
+
+/home/sklee25/temp/libfreenect/include/libfreenect.h:
+
+/usr/local/include/libfreenect/libfreenect_sync.h:
+
+/root/workspace/include-files/cvideo.h:
+
+/root/workspace/include-files/utility.h:
+
+/root/workspace/include-files/load_image.h:
+
+/root/workspace/include-files/utility.h:
+
+/root/workspace/include-files/viewer.h:
+
+/root/workspace/include-files/TCPServerSocket.h:
+
+/root/workspace/include-files/TCPClientSocket.h:
+
+/root/workspace/include-files/image_processing.h:
+
+/root/workspace/include-files/camera.h:
+
+/root/workspace/include-files/cvideo.h:
+
+/root/workspace/include-files/load_image.h:
+
+/root/workspace/include-files/viewer.h:

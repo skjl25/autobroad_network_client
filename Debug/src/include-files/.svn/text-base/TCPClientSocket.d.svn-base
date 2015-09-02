@@ -1,0 +1,5 @@
+src/include-files/TCPClientSocket.d src/include-files/TCPClientSocket.o: \
+ /root/workspace/include-files/TCPClientSocket.cpp \
+ /root/workspace/include-files/TCPClientSocket.h
+
+/root/workspace/include-files/TCPClientSocket.h:

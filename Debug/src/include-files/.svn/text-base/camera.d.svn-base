@@ -1,0 +1,66 @@
+src/include-files/camera.d src/include-files/camera.o: \
+ /root/workspace/include-files/camera.cpp \
+ /root/workspace/include-files/camera.h \
+ /root/workspace/include-files/utility.h \
+ /root/workspace/include-files/cvideo.h \
+ /root/workspace/include-files/load_image.h \
+ /root/workspace/include-files/viewer.h /usr/include/opencv/cv.h \
+ /usr/include/opencv/cxcore.h /usr/include/opencv/cxtypes.h \
+ /usr/include/opencv/cxerror.h /usr/include/opencv/cvver.h \
+ /usr/include/opencv/cxcore.hpp /usr/include/opencv/cxmisc.h \
+ /usr/include/opencv/cxoperations.hpp /usr/include/opencv/cxmat.hpp \
+ /usr/include/opencv/cxflann.h /usr/include/opencv/cvtypes.h \
+ /usr/include/opencv/cv.hpp /usr/include/opencv/cvcompat.h \
+ /usr/include/opencv/highgui.h /usr/include/opencv/highgui.hpp \
+ /usr/local/include/libfreenect/libfreenect_sync.h \
+ /home/sklee25/temp/libfreenect/include/libfreenect.h \
+ /root/workspace/include-files/image_processing.h \
+ /root/workspace/include-files/utility.h
+
+/root/workspace/include-files/camera.h:
+
+/root/workspace/include-files/utility.h:
+
+/root/workspace/include-files/cvideo.h:
+
+/root/workspace/include-files/load_image.h:
+
+/root/workspace/include-files/viewer.h:
+
+/usr/include/opencv/cv.h:
+
+/usr/include/opencv/cxcore.h:
+
+/usr/include/opencv/cxtypes.h:
+
+/usr/include/opencv/cxerror.h:
+
+/usr/include/opencv/cvver.h:
+
+/usr/include/opencv/cxcore.hpp:
+
+/usr/include/opencv/cxmisc.h:
+
+/usr/include/opencv/cxoperations.hpp:
+
+/usr/include/opencv/cxmat.hpp:
+
+/usr/include/opencv/cxflann.h:
+
+/usr/include/opencv/cvtypes.h:
+
+/usr/include/opencv/cv.hpp:
+
+/usr/include/opencv/cvcompat.h:
+
+/usr/include/opencv/highgui.h:
+
+/usr/include/opencv/highgui.hpp:
+
+/usr/local/include/libfreenect/libfreenect_sync.h:
+
+/home/sklee25/temp/libfreenect/include/libfreenect.h:
+
+/root/workspace/include-files/image_processing.h:
+
+/root/workspace/include-files/utility.h:

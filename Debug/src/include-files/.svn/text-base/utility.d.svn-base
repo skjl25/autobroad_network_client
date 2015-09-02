@@ -1,0 +1,5 @@
+src/include-files/utility.d src/include-files/utility.o: \
+ /root/workspace/include-files/utility.cpp \
+ /root/workspace/include-files/utility.h
+
+/root/workspace/include-files/utility.h:

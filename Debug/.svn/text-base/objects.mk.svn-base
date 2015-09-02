@@ -1,0 +1,8 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+USER_OBJS :=
+
+LIBS := -lpthread -lportaudio -lfreenect -lrt -lasound -lcv -lhighgui -lfreenect_sync -lglut -lGLU -lcvaux
+
